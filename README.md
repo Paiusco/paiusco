@@ -2,13 +2,13 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiusco&hide=html&layout=compact&theme=gruvbox&hide=java" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paiusco&hide=java&layout=compact&theme=gruvbox&" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=paiusco&theme=gruvbox&include_all_commits=true"/></td>
     </tr>   
   </table>
 </center>
 
-![](https://komarev.com/ghpvc/?username=paiusco&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=paiusco&color=yellow&style=flat)
 
 <!--
 **Paiusco/paiusco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
